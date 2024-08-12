@@ -40,3 +40,4 @@ Our project encompasses several critical aspects:
 - **Improved Treatment Outcomes**: Better follow-up and tailored treatment plans lead to enhanced therapeutic outcomes.
 - **Early CVD Detection**: Rapid identification and intervention for cardiovascular diseases, improving overall health.
 - **Streamlined Patient Experience**: Easier management of appointments and health data, leading to a more efficient and supportive treatment journey.
+- ## Feel free to contact us to get access to the final version of application.
