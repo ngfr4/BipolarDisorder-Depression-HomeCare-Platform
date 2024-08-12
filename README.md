@@ -1,3 +1,4 @@
 # Home Monitoring System for Bipolar Disorder and Depression
 ## Overview
 Bipolar Disorder (BD) is a significant mental health condition characterized by alternating manic and depressive periods. During manic or hypomanic stages, individuals may experience euphoria, increased energy, rapid speech, and risky behaviors. In depressive periods, they often feel numb to positive experiences and struggle with feelings of worthlessness and isolation.<br>
+Depression, another serious mood disorder, manifests in various forms but consistently involves loss of interest, a persistently low mood, pessimism, changes in appetite, and sleep disturbances. These conditions not only reduce the quality of life but also increase the risk of cardiovascular diseases (CVDs), which are a leading cause of death among those with serious mental health issues.
