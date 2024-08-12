@@ -15,6 +15,19 @@ This project aims to develop a comprehensive home monitoring system specifically
 - **Appointment Management**: Provide tools for managing appointments with healthcare professionals.
 - **Early Detection of CVDs**: Enable early identification of cardiovascular issues, allowing for prompt intervention and prevention.
 
+## Key Components
+
+Our project encompasses several critical aspects:
+
+- **Dataset Design and Management**: We have designed and implemented a comprehensive dataset schema to capture and manage patient health data effectively. This includes:
+  - **Database Design**: Creating the structure for storing various types of patient data.
+  - **Data Filling**: Populating the database with initial data to support testing and development.
+
+- **User Interface Development**: We have developed intuitive and user-friendly interfaces for different user roles, including:
+  - **Patient Interface**: For managing personal health data, appointments, and interactions with healthcare providers.
+  - **Specialized Practitioner Interface**: For managing patient interactions and appointments.
+  - **Technical Administrator Interface**: For overseeing system operations, managing users, and performing backups.
+
 ## Features
 
 - **Regular Health Data Updates**: Patients can regularly upload their health metrics for ongoing assessment.
@@ -27,23 +40,3 @@ This project aims to develop a comprehensive home monitoring system specifically
 - **Improved Treatment Outcomes**: Better follow-up and tailored treatment plans lead to enhanced therapeutic outcomes.
 - **Early CVD Detection**: Rapid identification and intervention for cardiovascular diseases, improving overall health.
 - **Streamlined Patient Experience**: Easier management of appointments and health data, leading to a more efficient and supportive treatment journey.
-
-## Getting Started
-
-To get started with the Home Monitoring System, follow these steps:
-
-1. **Installation**: [Instructions on how to install or set up the system]
-2. **Configuration**: [Steps to configure the system for individual use]
-3. **Usage**: [How to use the system effectively for monitoring and communication]
-
-## Contributing
-
-We welcome contributions to improve the system. If you have suggestions or would like to contribute, please refer to our [contributing guidelines](CONTRIBUTING.md).
-
-## Contact
-
-For any questions or support, please reach out to us at [contact@example.com](mailto:contact@example.com).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
